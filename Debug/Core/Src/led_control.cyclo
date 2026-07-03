@@ -1,0 +1,12 @@
+../Core/Src/led_control.c:33:6:initializeLEDs	1
+../Core/Src/led_control.c:62:6:led_pwm_setvalue	7
+../Core/Src/led_control.c:86:6:setLEDIntensity	2
+../Core/Src/led_control.c:96:6:setFieldIntensity	5
+../Core/Src/led_control.c:122:9:getIntensityLevel	3
+../Core/Src/led_control.c:130:6:setColorMode	4
+../Core/Src/led_control.c:159:6:setColorModeToEndo	4
+../Core/Src/led_control.c:178:6:lampOn	12
+../Core/Src/led_control.c:237:6:lampOff	1
+../Core/Src/led_control.c:241:6:setEndoMode	8
+../Core/Src/led_control.c:273:6:setDepthMode	2
+../Core/Src/led_control.c:292:6:smoothSetLEDIntensity	5

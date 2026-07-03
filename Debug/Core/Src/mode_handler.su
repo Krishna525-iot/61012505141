@@ -1,0 +1,2 @@
+../Core/Src/mode_handler.c:21:9:parseCommand	32	static
+../Core/Src/mode_handler.c:82:6:handleCommand	16	static

@@ -1,0 +1,4 @@
+../Core/Src/uart_handler.c:22:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/uart_handler.c:58:10:getRxBuffer	8	static
+../Core/Src/uart_handler.c:62:9:isDataReady	8	static
+../Core/Src/uart_handler.c:66:6:resetDataReady	8	static
